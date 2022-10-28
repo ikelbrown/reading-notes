@@ -1,2 +1,2 @@
 # reading-notes
-My reading notes journal for Code Fellows 2022
+My Code Fellows 2022 journey
