@@ -14,6 +14,6 @@
 - Getting my dream opportunity in technology
 
 
-* My name is Isaac and I am here to have lots of programming fun. 
+### My name is Isaac and I am here to have lots of programming fun. 
 * Please check out my GitHub portfolio (https://github.com/ikelbrown) and 
 * watch as I progress from beginner to eventually SME over time. 
